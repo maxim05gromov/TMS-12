@@ -13,6 +13,7 @@
 		814D29272C5D17EE00329F08 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 814D29262C5D17EE00329F08 /* Base */; };
 		814D29292C5D17EF00329F08 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 814D29282C5D17EF00329F08 /* Assets.xcassets */; };
 		814D292C2C5D17EF00329F08 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 814D292B2C5D17EF00329F08 /* Base */; };
+		814D29342C5D3D4D00329F08 /* EditorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814D29332C5D3D4D00329F08 /* EditorViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		814D29282C5D17EF00329F08 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		814D292B2C5D17EF00329F08 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		814D292D2C5D17EF00329F08 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		814D29332C5D3D4D00329F08 /* EditorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditorViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				814D29212C5D17EE00329F08 /* SceneDelegate.swift */,
 				814D29232C5D17EE00329F08 /* ViewController.swift */,
 				814D29252C5D17EE00329F08 /* Main.storyboard */,
+				814D29332C5D3D4D00329F08 /* EditorViewController.swift */,
 				814D29282C5D17EF00329F08 /* Assets.xcassets */,
 				814D292A2C5D17EF00329F08 /* LaunchScreen.storyboard */,
 				814D292D2C5D17EF00329F08 /* Info.plist */,
@@ -141,6 +144,7 @@
 				814D29242C5D17EE00329F08 /* ViewController.swift in Sources */,
 				814D29202C5D17EE00329F08 /* AppDelegate.swift in Sources */,
 				814D29222C5D17EE00329F08 /* SceneDelegate.swift in Sources */,
+				814D29342C5D3D4D00329F08 /* EditorViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
